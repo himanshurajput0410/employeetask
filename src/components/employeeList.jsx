@@ -69,7 +69,7 @@ const EmployeeList = () => {
                     <td className="px-4 py-4 text-base">{item.id}</td>
                     <td className="px-4 py-4 text-base ">
                       {item.fname}
-                      {item.lname}
+                      {""} {item.lname}
                     </td>
                     <td className="px-4 py-4 text-base">{item.dob}</td>
                     <td className="px-4 py-4 text-base">{item.study}</td>

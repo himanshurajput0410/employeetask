@@ -32,6 +32,28 @@
       "description": "i am a software engineer",
       "salary": "249999",
       "id": 7
+    },
+    {
+      "fname": "sunita ",
+      "lname": "tomar",
+      "dob": "1986-04-20",
+      "study": "msc",
+      "startdate": "1999-10-12",
+      "enddate": "2022-12-11",
+      "description": "i am bussiness women",
+      "salary": "30000",
+      "id": 8
+    },
+    {
+      "fname": "preeti",
+      "lname": "sharma",
+      "dob": "2004-03-12",
+      "study": "be",
+      "startdate": "2009-12-23",
+      "enddate": "2012-10-23",
+      "description": "i am preeti",
+      "salary": "4563",
+      "id": 9
     }
   ]
 }

@@ -27,6 +27,7 @@ const Registration = () => {
       .then((res) => {
         console.log(res);
         navigation("/employeelist");
+        alert("your data successfully saved");
       })
       .catch((err) => console.log(err));
   };
