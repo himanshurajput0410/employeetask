@@ -1,0 +1,37 @@
+{
+  "cruddata": [
+    {
+      "fname": "Himanshu",
+      "lname": "Tomar",
+      "dob": "1999-10-04",
+      "study": "mca",
+      "startdate": "2022-06-13",
+      "enddate": "2023-09-30",
+      "description": "hello I am frontend developer",
+      "salary": "24000",
+      "id": 5
+    },
+    {
+      "fname": "shivendra",
+      "lname": "singh",
+      "dob": "1996-04-10",
+      "study": "msc",
+      "startdate": "1999-11-08",
+      "enddate": "1998-10-10",
+      "description": "hello guys",
+      "salary": "14567",
+      "id": 6
+    },
+    {
+      "fname": "abhi",
+      "lname": "yadav",
+      "dob": "1999-12-05",
+      "study": "mca",
+      "startdate": "2020-08-22",
+      "enddate": "2022-10-20",
+      "description": "i am a software engineer",
+      "salary": "249999",
+      "id": 7
+    }
+  ]
+}
